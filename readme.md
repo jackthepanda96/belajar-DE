@@ -4,3 +4,7 @@ ini update pekerjaan saya 2
 ini komit kedua saya
 
 ini Wins yang komit
+## Initiate Project
+
+- Init Config
+- Init Panda Config
