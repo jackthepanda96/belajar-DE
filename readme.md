@@ -1,3 +1,2 @@
 Ini isi pertama dari repository saya
-
--saya coba menambahkan 
+ini komit kedua saya
